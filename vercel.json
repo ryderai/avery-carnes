@@ -58,12 +58,27 @@
    "permanent": true
   },
   {
+   "source": "/category/:path+/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
    "source": "/tag/:path*",
    "destination": "/",
    "permanent": true
   },
   {
+   "source": "/tag/:path+/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
    "source": "/author/:path*",
+   "destination": "/about-us/",
+   "permanent": true
+  },
+  {
+   "source": "/author/:path+/",
    "destination": "/about-us/",
    "permanent": true
   }
