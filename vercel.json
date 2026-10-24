@@ -1,0 +1,129 @@
+{
+ "cleanUrls": false,
+ "trailingSlash": true,
+ "redirects": [
+  {
+   "source": "/news",
+   "destination": "/contact-us/",
+   "permanent": true
+  },
+  {
+   "source": "/news/",
+   "destination": "/contact-us/",
+   "permanent": true
+  },
+  {
+   "source": "/legal-news",
+   "destination": "/faq/",
+   "permanent": true
+  },
+  {
+   "source": "/legal-news/",
+   "destination": "/faq/",
+   "permanent": true
+  },
+  {
+   "source": "/uncategorized/how-can-your-startup-hire-a-quality-lawyer",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/uncategorized/how-can-your-startup-hire-a-quality-lawyer/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/bankruptcy-law/6-tips-to-avoid-expensive-legal-advice",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/bankruptcy-law/6-tips-to-avoid-expensive-legal-advice/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/uncategorized/are-you-a-victim-of-a-crime",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/uncategorized/are-you-a-victim-of-a-crime/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/category/:path*",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/tag/:path*",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/author/:path*",
+   "destination": "/about-us/",
+   "permanent": true
+  }
+ ],
+ "headers": [
+  {
+   "source": "/(.*)\\.md",
+   "headers": [
+    {
+     "key": "Content-Type",
+     "value": "text/markdown; charset=utf-8"
+    }
+   ]
+  },
+  {
+   "source": "/llms(.*)\\.txt",
+   "headers": [
+    {
+     "key": "Content-Type",
+     "value": "text/plain; charset=utf-8"
+    }
+   ]
+  },
+  {
+   "source": "/assets/fonts/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=31536000, immutable"
+    }
+   ]
+  },
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "X-Content-Type-Options",
+     "value": "nosniff"
+    },
+    {
+     "key": "Referrer-Policy",
+     "value": "strict-origin-when-cross-origin"
+    },
+    {
+     "key": "X-Frame-Options",
+     "value": "SAMEORIGIN"
+    },
+    {
+     "key": "Permissions-Policy",
+     "value": "camera=(), microphone=(), geolocation=()"
+    },
+    {
+     "key": "Strict-Transport-Security",
+     "value": "max-age=63072000; includeSubDomains"
+    },
+    {
+     "key": "X-Robots-Tag",
+     "value": "noindex, nofollow"
+    }
+   ]
+  }
+ ]
+}
