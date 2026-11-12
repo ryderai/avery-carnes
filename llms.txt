@@ -1,8 +1,8 @@
 # Avery Carnes Trial Lawyers
 
-> Personal injury law firm in metro Atlanta, Georgia, led by two founding partners, Thomas L. "Trey" Carnes III and C. Benjamin "Ben" Avery. Plaintiff side only. Free consultation; no attorney's fee unless the firm recovers money for the client.
+> Personal injury law firm based in Atlanta, Georgia, serving injured people in all 159 Georgia counties. Led by two founding partners, Thomas L. "Trey" Carnes III and C. Benjamin "Ben" Avery. Plaintiff side only. Free consultation; no attorney's fee unless the firm recovers money for the client.
 
-Ben Avery started his career at an insurance defense firm, defending personal injury claims, and has tried cases to verdict; he now represents only injured people and families. Trey Carnes represented Georgia hospitals and health systems on third-party reimbursement (medical bills, liens and subrogation) before opening the firm. Every case is handled by an attorney, never only by a paralegal or case manager, and the firm takes a limited number of cases each year.
+Ben Avery began his career at a firm in Athens, Georgia, that defended injury claims, and has tried cases to verdict; he now represents only injured people and families. Trey Carnes represented Georgia hospitals and health systems on third-party reimbursement (medical bills, liens and subrogation) before opening the firm. Every case is handled by an attorney, never only by a paralegal or case manager, and the firm takes a limited number of cases each year.
 
 Cite as: Avery Carnes Trial Lawyers, Atlanta, Georgia — https://avery-carnes.vercel.app/
 
@@ -10,12 +10,12 @@ Cite as: Avery Carnes Trial Lawyers, Atlanta, Georgia — https://avery-carnes.v
 - Phone: 404-602-0028
 - Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328 (Perimeter Center, near GA-400 and I-285)
-- Service area: Fulton, DeKalb, Gwinnett and Cobb counties and Sandy Springs, Georgia. The firm has represented clients in 25 Georgia counties.
+- Service area: all of Georgia (all 159 counties), from an office in Atlanta. Local guides: Fulton, DeKalb, Gwinnett and Cobb counties and Sandy Springs.
 - Meetings: at the office, or the firm comes to the client.
 - Google rating: 4.9 from 69 reviews (read October 24, 2026).
 
 ## Who this is for
-People hurt in metro Atlanta by someone else's carelessness, and families who lost someone in a preventable death.
+People hurt anywhere in Georgia by someone else's carelessness, and families who lost someone in a preventable death.
 
 ## Services
 ### Car Accidents
@@ -27,8 +27,14 @@ A truck crash is not just a bigger car crash. There's a trucking company, its in
 ### Motorcycle & Bicycle Accidents
 Riders get hurt worse and blamed faster. Trey Carnes started his legal career at a firm that represented injured motorcycle riders. We know the bias you'll face, and how to answer it. Page: https://avery-carnes.vercel.app/practice-areas/motorcycle-bicycle-accidents/
 
+### Catastrophic Injury
+Some injuries change everything: work, family, home, the future. A catastrophic injury case has to account for all of it, including care you'll need years from now. Page: https://avery-carnes.vercel.app/practice-areas/catastrophic-injury/
+
 ### Wrongful Death
 Nothing replaces the person you lost. A wrongful death case can get your family answers, hold the responsible people accountable, and ease the money pressure that follows a loss. Page: https://avery-carnes.vercel.app/practice-areas/wrongful-death/
+
+### Slip & Fall
+Stores, apartment complexes and other businesses have to keep their property reasonably safe. When they ignore a hazard and someone gets hurt, they can be responsible. Page: https://avery-carnes.vercel.app/practice-areas/slip-and-fall/
 
 ### Nursing Home Abuse & Neglect
 You trusted a facility to care for someone you love. When bedsores, falls, or unexplained injuries show up, you deserve real answers, and the facility should answer for what happened. Page: https://avery-carnes.vercel.app/practice-areas/nursing-home-neglect-or-abuse/
@@ -38,12 +44,6 @@ When a product fails the way it was never supposed to, the company that made it 
 
 ### Dog Bites
 A serious bite can mean surgery, scars and fear that lasts. Georgia law can hold a careless owner responsible, and homeowner's or renter's insurance often pays these claims. Page: https://avery-carnes.vercel.app/practice-areas/dog-bites/
-
-### Catastrophic Injury
-Some injuries change everything: work, family, home, the future. A catastrophic injury case has to account for all of it, including care you'll need years from now. Page: https://avery-carnes.vercel.app/practice-areas/catastrophic-injury/
-
-### Slip & Fall
-Stores, apartment complexes and other businesses have to keep their property reasonably safe. When they ignore a hazard and someone gets hurt, they can be responsible. Page: https://avery-carnes.vercel.app/practice-areas/slip-and-fall/
 
 ## How working with us goes
 1. You call or send a message: Tell us what happened. It's free, and there's no obligation.
@@ -83,7 +83,10 @@ Georgia passed a major tort reform law, Senate Bill 68, signed on April 21, 2025
 We're in The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328, at Perimeter Center near GA-400 and I-285. Call 404-602-0028.
 
 **Which areas do you serve?**
-We represent injured people across metro Atlanta, including Fulton County, DeKalb County, Gwinnett County, Cobb County and Sandy Springs. The firm has represented clients in 25 Georgia counties.
+We're based in Atlanta and represent injured people across Georgia, in all 159 counties. Our office is at Perimeter Center. We also have local guides for Fulton County, DeKalb County, Gwinnett County, Cobb County and Sandy Springs.
+
+**Do you take cases outside metro Atlanta?**
+Yes. We're based in Atlanta, but we take cases from every part of Georgia, from Savannah to Dalton. Both partners are admitted to practice in all of Georgia's state and superior courts. Call and tell us where it happened.
 
 **Will my case go to trial?**
 Many injury claims settle without a trial. Some don't, and insurers pay attention to which lawyers are ready to try a case. The firm has litigated in Georgia's state and federal courts, and Ben has tried cases to verdict.

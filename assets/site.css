@@ -654,3 +654,50 @@ a.prow:focus-visible{outline-offset:-3px}
 .foot__bottom a{display:inline-block;padding:.35rem 0}
 .rating__meta a{display:inline-block;padding:.25rem 0}
 @media(max-width:1000px){.nav.menu-open{position:fixed;top:0;left:0;right:0}.nav.menu-open .brand{position:relative;z-index:1003}}
+
+
+/* ---- 11 Nov 2026: intro video slot, statewide county list, review pages, print ---- */
+.ivid{background:var(--surface)}
+.ivid__wrap{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:clamp(2rem,5vw,4.5rem);align-items:center}
+.ivid__copy .lead{margin-top:1rem;max-width:30em}
+.ivid__copy .hero__actions{margin-top:1.8rem}
+.ivid__media{display:grid;gap:1rem;min-width:0}
+.ivid__fig{margin:0}
+.ivid__player{width:100%;aspect-ratio:16/9;background:var(--navy-deep);display:block;object-fit:cover}
+.ivid__fig figcaption{font-size:.85rem;color:var(--muted);margin-top:.5rem;font-weight:600}
+.ivid__ph{aspect-ratio:16/9;background:var(--navy-deep);color:var(--bone-ondark);display:grid;place-items:center;align-content:center;gap:1.1rem;text-align:center;padding:1.5rem;border:1px solid rgba(207,186,132,.45);outline:1px solid rgba(207,186,132,.45);outline-offset:-14px}
+.ivid__ph p{max-width:26em;font-size:.95rem;color:var(--muted-ondark)}
+.ivid__ph strong{color:var(--gold-inv)}
+.ivid__ph a{color:var(--gold-inv);font-weight:700}
+.ivid__play{width:64px;height:64px;border-radius:50%;background:var(--gold);color:var(--ink);display:grid;place-items:center;padding-left:4px}
+@media(max-width:900px){.ivid__wrap{grid-template-columns:minmax(0,1fr)}}
+.counties{columns:5 11rem;column-gap:2rem;margin-top:2.2rem}
+.cgroup{break-inside:avoid;margin-bottom:1.1rem}
+.cgroup__l{font-family:var(--display);font-size:1.15rem;color:var(--gold-deep);border-bottom:1px solid var(--line);padding-bottom:.2rem;margin-bottom:.4rem}
+.cgroup ul{list-style:none;display:grid;gap:.15rem;font-size:.95rem;color:var(--ink)}
+.review-page .opts{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,18rem),1fr));gap:1rem;margin:1.2rem 0 2rem}
+.review-page .opt{background:var(--surface);padding:1.4rem 1.5rem;border-top:3px solid var(--line)}
+.review-page .opt--live{border-top-color:var(--gold)}
+.review-page .opt__k{font-size:.72rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-deep);margin-bottom:.3rem}
+.review-page .opt h3{font-size:1.2rem;margin-bottom:.4rem}
+.review-page .opt__why{font-size:.9rem;color:var(--muted)}
+.review-page .opt__body{border-left:2px solid var(--gold);padding-left:1rem;margin-top:.8rem}
+.review-page .opt__body p{color:var(--ink)}
+@media print{
+  .topbar,.nav,.mbar,.preview,.burger,.progress,.hero__actions,form,.formcard,.contact form,.ivid__media,.skip,.faq-more,.related{display:none!important}
+  body{background:#fff;color:#000;font-size:11pt}
+  section{padding-block:1.2rem!important;break-inside:auto}
+  .ondark,footer{background:#fff!important;color:#000!important}
+  .ondark *,footer *{color:#000!important}
+  a{color:#000;text-decoration:underline}
+  .prose a[href^="http"]::after{content:" (" attr(href) ")";font-size:.85em}
+  details{display:block}details>*{display:block}
+  .hero,.phero .wrap,.inside__grid,.why__grid,.clock__grid,.areas__grid,.ivid__wrap{display:block!important}
+  img{max-width:40%!important;height:auto!important}
+  .hero__plate{display:none}
+  .counties{columns:4}
+  h1,h2,h3{break-after:avoid}
+}
+@media(max-width:600px){.ivid__ph{aspect-ratio:auto;padding:2.2rem 1.2rem;outline-offset:-10px}}
+.prose .crumbs ol{display:flex;margin:0;gap:.4rem;color:var(--muted)}
+.prose .crumbs li::marker{content:none}

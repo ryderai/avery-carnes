@@ -109,3 +109,9 @@
     });
   });
 })();
+
+// Print: open every FAQ answer so printed pages show the full text (11 Nov 2026).
+window.addEventListener('beforeprint', function () {
+  var ds = document.querySelectorAll('details');
+  for (var i = 0; i < ds.length; i++) ds[i].open = true;
+});

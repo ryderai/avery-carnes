@@ -2,12 +2,14 @@
 title: "Atlanta Personal Injury Lawyers | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # Avery Carnes Trial Lawyers — Atlanta personal injury lawyers
 
-**Insurers have lawyers. So do you.** Ben Avery started his career at an insurance defense firm. Trey Carnes represented Georgia hospitals on medical bills and liens. Now both partners work for injured people, and you pay no attorney's fee unless we recover money for you.
+**Insurers have lawyers. So do you.** Trey Carnes and Ben Avery know how insurers value a claim, and how medical bills and liens can shrink one. They represent only injured people and families, and you pay no attorney's fee unless we recover money for you.
+
+**Based in Atlanta, serving all of Georgia** (all 159 counties).
 
 No attorney's fee unless we recover money for you. Whether you owe case costs (such as filing fees or expert fees) if there is no recovery is set out in your written fee agreement.
 
@@ -15,9 +17,9 @@ No attorney's fee unless we recover money for you. Whether you owe case costs (s
 - If you can't come to us, we come to you.
 - 4.9 stars from 69 Google reviews (as of October 24, 2026).
 
-## Inside knowledge
+## Experience on your side
 
-- **Ben Avery** defended personal injury claims at an insurance defense firm in Athens, Georgia, and tried cases to verdict. Today he represents only injured people and families.
+- **Ben Avery** has built his career in personal injury cases in Georgia courts and has tried cases to verdict. Today he represents only injured people and families.
 - **Trey Carnes** represented Georgia hospitals and health systems on third-party reimbursement before opening the firm. He knows how medical bills, liens and subrogation affect what an injured person takes home.
 
 For injuries on or after April 21, 2025, Georgia's tort reform law (Senate Bill 68) lets the defense show the jury what medical bills were actually paid, not just billed.
@@ -27,12 +29,12 @@ For injuries on or after April 21, 2025, Georgia's tort reform law (Senate Bill 
 - [Car Accidents](https://avery-carnes.vercel.app/practice-areas/auto-accidents/): Crashes caused by distracted, impaired or reckless drivers.
 - [Truck Accidents](https://avery-carnes.vercel.app/practice-areas/truck-accidents/): Commercial vehicle wrecks and the companies behind them.
 - [Motorcycle & Bicycle Accidents](https://avery-carnes.vercel.app/practice-areas/motorcycle-bicycle-accidents/): Riders hurt by drivers who did not look twice.
+- [Catastrophic Injury](https://avery-carnes.vercel.app/practice-areas/catastrophic-injury/): Life-changing injuries that need long-term care.
 - [Wrongful Death](https://avery-carnes.vercel.app/practice-areas/wrongful-death/): Answers and accountability for grieving families.
+- [Slip & Fall](https://avery-carnes.vercel.app/practice-areas/slip-and-fall/): Property owners who ignored a hazard they knew about.
 - [Nursing Home Abuse & Neglect](https://avery-carnes.vercel.app/practice-areas/nursing-home-neglect-or-abuse/): Protecting the people who once protected you.
 - [Product Liability](https://avery-carnes.vercel.app/practice-areas/products-liability/): Defective products and the harm they leave behind.
 - [Dog Bites](https://avery-carnes.vercel.app/practice-areas/dog-bites/): Serious bite injuries and negligent owners.
-- [Catastrophic Injury](https://avery-carnes.vercel.app/practice-areas/catastrophic-injury/): Life-changing injuries that need long-term care.
-- [Slip & Fall](https://avery-carnes.vercel.app/practice-areas/slip-and-fall/): Property owners who ignored a hazard they knew about.
 
 ## What happens after you call
 
@@ -48,6 +50,8 @@ For injuries on or after April 21, 2025, Georgia's tort reform law (Senate Bill 
 - **50%**: you recover only if you were less than 50% at fault, reduced by your share (O.C.G.A. § 51-12-33).
 
 ## Where we work
+
+Based in Atlanta, serving all of Georgia: we take cases from all 159 Georgia counties. [See every county](https://avery-carnes.vercel.app/areas-we-serve/#all-counties). Local guides:
 
 - [Fulton County](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/)
 - [DeKalb County](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/)
@@ -72,6 +76,10 @@ Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can s
 ### Who will actually handle my case?
 
 An attorney. At Avery Carnes, your case is handled by a lawyer, never only by a paralegal, case manager or intake rep. The firm takes a limited number of cases each year so every client gets personal attention.
+
+### Do you take cases outside metro Atlanta?
+
+Yes. We're based in Atlanta, but we take cases from every part of Georgia, from Savannah to Dalton. Both partners are admitted to practice in all of Georgia's state and superior courts. Call and tell us where it happened.
 
 ### What changed in Georgia injury law in 2025?
 

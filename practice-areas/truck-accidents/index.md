@@ -2,7 +2,7 @@
 title: "Atlanta Truck Accident Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/practice-areas/truck-accidents/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # Atlanta Truck Accident Lawyer
@@ -31,7 +31,7 @@ More than one party can be responsible: the driver, the trucking company, the co
 
 Some of this can be lost or overwritten. One of our first steps is a written demand that the company preserve it.
 
-> **A partner who started on the other side.** Ben started his career at an insurance defense firm, defending injury claims. He knows how a defense team builds its case, because that was his job.
+> **Lawyers who know how the defense works.** A trucking company and its insurer start building their defense the day of the wreck. Ben has tried injury cases to verdict and knows how that defense gets built, so we start building your case just as early.
 
 ## Where trucks and traffic meet in metro Atlanta
 

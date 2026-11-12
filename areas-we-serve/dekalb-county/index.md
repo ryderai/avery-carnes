@@ -2,7 +2,7 @@
 title: "DeKalb County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # DeKalb County Personal Injury Lawyer
@@ -23,7 +23,7 @@ Main roads where we see crashes: I-285 on the east side, I-85 and the I-85/I-285
 
 ## Injury cases we handle in DeKalb County
 
-Crashes on I-285, I-85, I-20 and the I-85/I-285 interchange. Pedestrian crashes on Buford Highway and Memorial Drive. Falls, dog bites, nursing home neglect and wrongful death. Trey lives in Brookhaven, in DeKalb County.
+Crashes on I-285, I-85, I-20 and the I-85/I-285 interchange. Pedestrian crashes on Buford Highway and Memorial Drive. Wrongful death, falls, nursing home neglect and dog bites. Trey lives in Brookhaven, in DeKalb County.
 
 Emory Decatur Hospital serves much of central DeKalb. Wherever you were treated, keep every bill and record.
 

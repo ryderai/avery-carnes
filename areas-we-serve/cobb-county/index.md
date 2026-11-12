@@ -2,7 +2,7 @@
 title: "Cobb County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/cobb-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # Cobb County Personal Injury Lawyer
@@ -23,7 +23,7 @@ Main roads where we see crashes: I-75, I-285 at Cumberland, I-575, Cobb Parkway 
 
 ## Injury cases we handle in Cobb County
 
-Crashes on I-75, I-575 and I-285 around Cumberland, and on Cobb Parkway and Windy Hill Road. Truck crashes, motorcycle crashes, falls, dog bites and wrongful death.
+Crashes on I-75, I-575 and I-285 around Cumberland, and on Cobb Parkway and Windy Hill Road. Truck and motorcycle crashes, wrongful death, falls and dog bites.
 
 Many people hurt in Cobb are treated at Wellstar Kennestone Hospital in Marietta. Wherever you were treated, keep every bill and record.
 

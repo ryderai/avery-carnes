@@ -2,7 +2,7 @@
 title: "About Avery Carnes Trial Lawyers | Trey Carnes & Ben Avery"
 url: "https://avery-carnes.vercel.app/about-us/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # About Avery Carnes Trial Lawyers
@@ -29,9 +29,9 @@ Outside the office, Trey lives in Brookhaven. He plays golf, runs, works on vint
 
 Ben grew up in Gwinnett County and graduated from Buford High School. He earned his undergraduate degree at the University of Georgia and his law degree from John Marshall Law School.
 
-After law school, Ben joined an insurance defense firm in Athens, Georgia, where he focused only on defending personal injury claims. He gained deep litigation experience there and tried cases to verdict.
+Ben has built his career in personal injury cases. He began at a firm in Athens, Georgia, that defended injury claims, and he tried cases to verdict there. That work showed him how insurance companies value a claim.
 
-He left that work to represent people instead of insurance companies. Today he represents only individuals and families who have been hurt by others.
+Today he represents only individuals and families who have been hurt by others.
 
 Ben is an amateur golfer who competes in state and national amateur tournaments. He and his wife, Hannah, have three children: Amy, Will and Caroline.
 

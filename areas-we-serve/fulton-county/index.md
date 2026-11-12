@@ -2,7 +2,7 @@
 title: "Fulton County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/fulton-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # Fulton County Personal Injury Lawyer
@@ -23,7 +23,7 @@ Main roads where we see crashes: GA-400, I-285 across the top end, the I-75/I-85
 
 ## Injury cases we handle in Fulton County
 
-Car and truck crashes on GA-400, I-285 and the Downtown Connector. Pedestrian and bike crashes on Peachtree Road and in Midtown. Falls at stores and apartment complexes. Nursing home neglect. Wrongful death. If you were hurt in Fulton County, we can talk through your case for free.
+Car and truck crashes on GA-400, I-285 and the Downtown Connector. Pedestrian and bike crashes on Peachtree Road and in Midtown. Falls at stores and apartment complexes. Wrongful death. Nursing home neglect. If you were hurt in Fulton County, we can talk through your case for free.
 
 ## Where a Fulton County case is heard
 

@@ -2,7 +2,7 @@
 title: "Gwinnett County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-10-24"
+updated: "2026-11-11"
 ---
 
 # Gwinnett County Personal Injury Lawyer
@@ -23,7 +23,7 @@ Main roads where we see crashes: I-85, GA-316, I-985, Peachtree Industrial Boule
 
 ## Injury cases we handle in Gwinnett County
 
-Crashes on I-85, GA-316 and I-985, and on busy roads like Peachtree Industrial Boulevard and Pleasant Hill Road. Truck crashes along the I-85 freight corridor. Falls, dog bites, nursing home neglect and wrongful death.
+Crashes on I-85, GA-316 and I-985, and on busy roads like Peachtree Industrial Boulevard and Pleasant Hill Road. Truck crashes along the I-85 freight corridor. Wrongful death, falls, nursing home neglect and dog bites.
 
 ## Where a Gwinnett County case is heard
 
