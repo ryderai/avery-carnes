@@ -2,7 +2,7 @@
 title: "DeKalb County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # DeKalb County Personal Injury Lawyer
@@ -19,7 +19,7 @@ From Dunwoody and Brookhaven down to Decatur and Stonecrest, we represent people
 
 Decatur, Brookhaven, Dunwoody, Chamblee, Doraville, Tucker, Stonecrest, Lithonia, Stone Mountain
 
-Main roads where we see crashes: I-285 on the east side, I-85 and the I-85/I-285 interchange, I-20, Buford Highway, Memorial Drive.
+Main roads in DeKalb County: I-285 on the east side, I-85 and the I-85/I-285 interchange, I-20, Buford Highway, Memorial Drive.
 
 ## Injury cases we handle in DeKalb County
 
@@ -33,7 +33,7 @@ Most injury lawsuits here are filed in the State Court or Superior Court of DeKa
 
 ## Deadlines to watch
 
-Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). For claims against a city, like Brookhaven, Dunwoody or Decatur, written notice is due within **six months** (O.C.G.A. § 36-33-5). DeKalb County gets **twelve months** (O.C.G.A. § 36-11-1).
+Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). For claims against a city, like Brookhaven, Dunwoody or Decatur, written notice is due within **six months** (O.C.G.A. § 36-33-5). For claims against DeKalb County, notice is due within **twelve months** (O.C.G.A. § 36-11-1).
 
 ## Questions
 

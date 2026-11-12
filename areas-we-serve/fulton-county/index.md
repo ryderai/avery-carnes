@@ -2,7 +2,7 @@
 title: "Fulton County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/fulton-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Fulton County Personal Injury Lawyer
@@ -19,7 +19,7 @@ Our office sits in Fulton County at Perimeter Center. We represent people hurt a
 
 Atlanta, Sandy Springs, Roswell, Alpharetta, Johns Creek, Milton, South Fulton, East Point, College Park
 
-Main roads where we see crashes: GA-400, I-285 across the top end, the I-75/I-85 Downtown Connector, Roswell Road, Peachtree Road.
+Main roads in Fulton County: GA-400, I-285 across the top end, the I-75/I-85 Downtown Connector, Roswell Road, Peachtree Road.
 
 ## Injury cases we handle in Fulton County
 
@@ -31,7 +31,7 @@ Most injury lawsuits here are filed in the State Court or Superior Court of Fult
 
 ## Deadlines to watch
 
-Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). If a city vehicle, road or building was involved, for example in Atlanta, Sandy Springs or Roswell, written notice is due within **six months** (O.C.G.A. § 36-33-5). Fulton County itself gets **twelve months** (O.C.G.A. § 36-11-1).
+Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). If a city vehicle, road or building was involved, for example in Atlanta, Sandy Springs or Roswell, written notice is due within **six months** (O.C.G.A. § 36-33-5). For claims against Fulton County, notice is due within **twelve months** (O.C.G.A. § 36-11-1).
 
 ## After a crash
 

@@ -2,7 +2,7 @@
 title: "Gwinnett County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Gwinnett County Personal Injury Lawyer
@@ -19,7 +19,7 @@ Ben Avery grew up in Gwinnett County and graduated from Buford High School. Toda
 
 Lawrenceville, Duluth, Snellville, Norcross, Suwanee, Buford, Lilburn, Peachtree Corners
 
-Main roads where we see crashes: I-85, GA-316, I-985, Peachtree Industrial Boulevard, Pleasant Hill Road.
+Main roads in Gwinnett County: I-85, GA-316, I-985, Peachtree Industrial Boulevard, Pleasant Hill Road.
 
 ## Injury cases we handle in Gwinnett County
 
@@ -31,7 +31,7 @@ Most injury lawsuits here are filed in the State Court or Superior Court of Gwin
 
 ## Deadlines to watch
 
-Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). For claims against a city, written notice is due within **six months** (O.C.G.A. § 36-33-5). Gwinnett County gets **twelve months** (O.C.G.A. § 36-11-1).
+Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). For claims against a city, written notice is due within **six months** (O.C.G.A. § 36-33-5). For claims against Gwinnett County, notice is due within **twelve months** (O.C.G.A. § 36-11-1).
 
 ## Questions
 

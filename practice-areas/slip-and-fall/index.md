@@ -2,7 +2,7 @@
 title: "Atlanta Slip and Fall Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/practice-areas/slip-and-fall/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Atlanta Slip and Fall Lawyer

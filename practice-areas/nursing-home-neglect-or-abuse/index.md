@@ -2,7 +2,7 @@
 title: "Atlanta Nursing Home Abuse & Neglect Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/practice-areas/nursing-home-neglect-or-abuse/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Atlanta Nursing Home Abuse & Neglect Lawyer

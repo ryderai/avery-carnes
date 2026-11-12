@@ -2,7 +2,7 @@
 title: "Sandy Springs Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Sandy Springs Personal Injury Lawyer
@@ -19,7 +19,7 @@ Our office is in The King Building at Perimeter Center, where GA-400 meets I-285
 
 Perimeter Center, City Springs, North Springs, Riverside, Dunwoody (next door), Brookhaven (next door)
 
-Main roads where we see crashes: GA-400, I-285 at Perimeter Center, Roswell Road, Abernathy Road, Hammond Drive.
+Main roads in Sandy Springs: GA-400, I-285 at Perimeter Center, Roswell Road, Abernathy Road, Hammond Drive.
 
 ## Injury cases we handle in Sandy Springs
 

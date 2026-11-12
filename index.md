@@ -2,7 +2,7 @@
 title: "Atlanta Personal Injury Lawyers | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Avery Carnes Trial Lawyers — Atlanta personal injury lawyers
@@ -56,8 +56,16 @@ Based in Atlanta, serving all of Georgia: we take cases from all 159 Georgia cou
 - [Fulton County](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/)
 - [DeKalb County](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/)
 - [Gwinnett County](https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/)
-- [Cobb County](https://avery-carnes.vercel.app/areas-we-serve/cobb-county/)
 - [Sandy Springs](https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/)
+- [Bartow County](https://avery-carnes.vercel.app/areas-we-serve/bartow-county/)
+- [Cherokee County](https://avery-carnes.vercel.app/areas-we-serve/cherokee-county/)
+- [Clayton County](https://avery-carnes.vercel.app/areas-we-serve/clayton-county/)
+- [Cobb County](https://avery-carnes.vercel.app/areas-we-serve/cobb-county/)
+- [Douglas County](https://avery-carnes.vercel.app/areas-we-serve/douglas-county/)
+- [Forsyth County](https://avery-carnes.vercel.app/areas-we-serve/forsyth-county/)
+- [Henry County](https://avery-carnes.vercel.app/areas-we-serve/henry-county/)
+- [Paulding County](https://avery-carnes.vercel.app/areas-we-serve/paulding-county/)
+- [Rockdale County](https://avery-carnes.vercel.app/areas-we-serve/rockdale-county/)
 
 ## Questions
 

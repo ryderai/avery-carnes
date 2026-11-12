@@ -2,7 +2,7 @@
 title: "About Avery Carnes Trial Lawyers | Trey Carnes & Ben Avery"
 url: "https://avery-carnes.vercel.app/about-us/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # About Avery Carnes Trial Lawyers

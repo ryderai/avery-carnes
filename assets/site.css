@@ -701,3 +701,9 @@ a.prow:focus-visible{outline-offset:-3px}
 @media(max-width:600px){.ivid__ph{aspect-ratio:auto;padding:2.2rem 1.2rem;outline-offset:-10px}}
 .prose .crumbs ol{display:flex;margin:0;gap:.4rem;color:var(--muted)}
 .prose .crumbs li::marker{content:none}
+/* 12 Nov 2026: county guides */
+.areas__grid--4{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:1060px){.areas__grid--4{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.areas__metro a{color:var(--gold-deep);font-weight:700}
+.cgroup__a{color:var(--gold-deep);font-weight:700;text-decoration:underline;text-underline-offset:2px}
+@media(max-width:380px){.areas__grid--4{grid-template-columns:1fr}}

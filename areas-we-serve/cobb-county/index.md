@@ -2,7 +2,7 @@
 title: "Cobb County Personal Injury Lawyer | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/cobb-county/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Cobb County Personal Injury Lawyer
@@ -19,7 +19,7 @@ From the Cumberland area to Kennesaw and Acworth, we represent people hurt in Co
 
 Marietta, Smyrna, Kennesaw, Acworth, Powder Springs, Austell, Mableton
 
-Main roads where we see crashes: I-75, I-285 at Cumberland, I-575, Cobb Parkway (US-41), Windy Hill Road.
+Main roads in Cobb County: I-75, I-285 at Cumberland, I-575, Cobb Parkway (US-41), Windy Hill Road.
 
 ## Injury cases we handle in Cobb County
 
@@ -33,7 +33,7 @@ Injury lawsuits here are usually filed in the State Court of Cobb County (12 Eas
 
 ## Deadlines to watch
 
-Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). For claims against a city, like Marietta or Smyrna, written notice is due within **six months** (O.C.G.A. § 36-33-5). Cobb County gets **twelve months** (O.C.G.A. § 36-11-1).
+Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). For claims against a city, like Marietta or Smyrna, written notice is due within **six months** (O.C.G.A. § 36-33-5). For claims against Cobb County, notice is due within **twelve months** (O.C.G.A. § 36-11-1).
 
 ## Questions
 

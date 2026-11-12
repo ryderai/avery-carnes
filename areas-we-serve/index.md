@@ -2,20 +2,31 @@
 title: "Areas We Serve: Atlanta & All of Georgia | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/areas-we-serve/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Based in Atlanta. Serving all of Georgia.
 
 Avery Carnes Trial Lawyers is based in Atlanta (Perimeter Center) and represents injured people in all 159 Georgia counties.
 
-## Local guides
+## Near our office
 
 - [Fulton County](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/): Atlanta, Sandy Springs, Roswell, Alpharetta, Johns Creek, Milton, South Fulton, East Point, College Park
 - [DeKalb County](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/): Decatur, Brookhaven, Dunwoody, Chamblee, Doraville, Tucker, Stonecrest, Lithonia, Stone Mountain
 - [Gwinnett County](https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/): Lawrenceville, Duluth, Snellville, Norcross, Suwanee, Buford, Lilburn, Peachtree Corners
-- [Cobb County](https://avery-carnes.vercel.app/areas-we-serve/cobb-county/): Marietta, Smyrna, Kennesaw, Acworth, Powder Springs, Austell, Mableton
 - [Sandy Springs](https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/): Perimeter Center, City Springs, North Springs, Riverside, Dunwoody (next door), Brookhaven (next door)
+
+## Metro Atlanta county guides
+
+- [Bartow County](https://avery-carnes.vercel.app/areas-we-serve/bartow-county/): Cartersville, Adairsville, Emerson, Euharlee, Kingston, White (city), Taylorsville, Cassville
+- [Cherokee County](https://avery-carnes.vercel.app/areas-we-serve/cherokee-county/): Canton, Woodstock, Holly Springs, Ball Ground, Waleska, Towne Lake, Hickory Flat
+- [Clayton County](https://avery-carnes.vercel.app/areas-we-serve/clayton-county/): Jonesboro, Forest Park, Riverdale, Morrow, Lake City, Lovejoy, Ellenwood (part), Rex
+- [Cobb County](https://avery-carnes.vercel.app/areas-we-serve/cobb-county/): Marietta, Smyrna, Kennesaw, Acworth, Powder Springs, Austell, Mableton
+- [Douglas County](https://avery-carnes.vercel.app/areas-we-serve/douglas-county/): Douglasville, Lithia Springs, Winston, Chapel Hill, Villa Rica (part), Austell (part)
+- [Forsyth County](https://avery-carnes.vercel.app/areas-we-serve/forsyth-county/): Cumming, South Forsyth, Big Creek, Midway, Vickery, Coal Mountain, Silver City
+- [Henry County](https://avery-carnes.vercel.app/areas-we-serve/henry-county/): McDonough, Stockbridge, Hampton, Locust Grove, Ellenwood (part), Luella, Kelleytown
+- [Paulding County](https://avery-carnes.vercel.app/areas-we-serve/paulding-county/): Dallas, Hiram, Braswell, Yorkville, New Hope
+- [Rockdale County](https://avery-carnes.vercel.app/areas-we-serve/rockdale-county/): Conyers, Milstead, Honey Creek, Lakeview Estates
 
 ## Every Georgia county we serve
 
@@ -29,7 +40,7 @@ Yes. We're based in Atlanta, but we take cases from every part of Georgia, from 
 
 ### Which areas do you serve?
 
-We're based in Atlanta and represent injured people across Georgia, in [all 159 counties](https://avery-carnes.vercel.app/areas-we-serve/#all-counties). Our office is at Perimeter Center. We also have local guides for [Fulton County](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/), [DeKalb County](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/), [Gwinnett County](https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/), [Cobb County](https://avery-carnes.vercel.app/areas-we-serve/cobb-county/) and [Sandy Springs](https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/).
+We're based in Atlanta and represent injured people across Georgia, in [all 159 counties](https://avery-carnes.vercel.app/areas-we-serve/#all-counties). Our office is at Perimeter Center. We have local guides for [Fulton](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/), [DeKalb](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/) and [Gwinnett](https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/) counties and [Sandy Springs](https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/), plus [nine more metro Atlanta counties](https://avery-carnes.vercel.app/areas-we-serve/#metro), from Bartow to Rockdale.
 
 ### Can you come to me?
 

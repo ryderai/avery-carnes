@@ -2,7 +2,7 @@
 title: "Disclaimer & Privacy | Avery Carnes Trial Lawyers"
 url: "https://avery-carnes.vercel.app/disclaimer/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Disclaimer & privacy

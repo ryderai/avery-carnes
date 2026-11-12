@@ -2,7 +2,7 @@
 title: "Georgia Personal Injury Questions & Answers | Avery Carnes"
 url: "https://avery-carnes.vercel.app/faq/"
 optimized_by: "AI search optimization (GEO) for this site by AI Syndicate — https://aisyndicate.com"
-updated: "2026-11-11"
+updated: "2026-11-12"
 ---
 
 # Georgia injury questions, answered
@@ -45,7 +45,7 @@ We're in The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328, at Perime
 
 ### Which areas do you serve?
 
-We're based in Atlanta and represent injured people across Georgia, in [all 159 counties](https://avery-carnes.vercel.app/areas-we-serve/#all-counties). Our office is at Perimeter Center. We also have local guides for [Fulton County](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/), [DeKalb County](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/), [Gwinnett County](https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/), [Cobb County](https://avery-carnes.vercel.app/areas-we-serve/cobb-county/) and [Sandy Springs](https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/).
+We're based in Atlanta and represent injured people across Georgia, in [all 159 counties](https://avery-carnes.vercel.app/areas-we-serve/#all-counties). Our office is at Perimeter Center. We have local guides for [Fulton](https://avery-carnes.vercel.app/areas-we-serve/fulton-county/), [DeKalb](https://avery-carnes.vercel.app/areas-we-serve/dekalb-county/) and [Gwinnett](https://avery-carnes.vercel.app/areas-we-serve/gwinnett-county/) counties and [Sandy Springs](https://avery-carnes.vercel.app/areas-we-serve/sandy-springs/), plus [nine more metro Atlanta counties](https://avery-carnes.vercel.app/areas-we-serve/#metro), from Bartow to Rockdale.
 
 ### Do you take cases outside metro Atlanta?
 
