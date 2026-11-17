@@ -45,7 +45,7 @@ Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can s
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.
 
 ### How much does it cost to hire Avery Carnes?
 
@@ -54,7 +54,6 @@ Your first consultation is free. We take injury cases on a contingency fee, whic
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

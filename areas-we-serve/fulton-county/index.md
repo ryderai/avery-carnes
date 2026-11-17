@@ -35,7 +35,7 @@ Most injury claims must be filed within two years (O.C.G.A. § 9-3-33). If a cit
 
 ## After a crash
 
-Grady Memorial Hospital downtown is a Level I trauma center, and Northside Hospital Atlanta and Emory Saint Joseph's Hospital are minutes from our office. Wherever you were treated, keep every bill and record. If you can't get to us, we come to you.
+Grady Memorial Hospital downtown is a Level I trauma center, and Northside Hospital Atlanta and Emory Saint Joseph's Hospital are minutes from our office. Wherever you were treated, keep every bill and record. We come to you.
 
 ## Questions
 
@@ -45,7 +45,7 @@ For most injury claims, Georgia gives you **two years from the date of the injur
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.
 
 ### Where is your office?
 
@@ -58,7 +58,6 @@ Your first consultation is free. We take injury cases on a contingency fee, whic
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

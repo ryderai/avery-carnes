@@ -7,20 +7,20 @@ updated: "2026-11-12"
 
 # Avery Carnes Trial Lawyers — Atlanta personal injury lawyers
 
-**Insurers have lawyers. So do you.** Trey Carnes and Ben Avery know how insurers value a claim, and how medical bills and liens can shrink one. They represent only injured people and families, and you pay no attorney's fee unless we recover money for you.
+**Insurers have lawyers. So do you.** The lawyers at Avery Carnes have handled thousands of personal injury cases. With their knowledge and experience, Avery Carnes is able to obtain maximum results for cases ranging from car accidents to wrongful death claims.
 
 **Based in Atlanta, serving all of Georgia** (all 159 counties).
 
 No attorney's fee unless we recover money for you. Whether you owe case costs (such as filing fees or expert fees) if there is no recovery is set out in your written fee agreement.
 
-- No attorney's fee unless we recover. Free consultation.
-- If you can't come to us, we come to you.
+- No Fee Unless We Win. Free consultation.
+- We Come to You.
 - 4.9 stars from 69 Google reviews (as of October 24, 2026).
 
 ## Experience on your side
 
-- **Ben Avery** has built his career in personal injury cases in Georgia courts and has tried cases to verdict. Today he represents only injured people and families.
-- **Trey Carnes** represented Georgia hospitals and health systems on third-party reimbursement before opening the firm. He knows how medical bills, liens and subrogation affect what an injured person takes home.
+- **Ben Avery:** Ben has spent his entire career litigating personal injury cases. Prior to representing injured people and their families, he defended these same personal injury cases for some of the nation's largest insurance companies. Having this experience, Ben is able to evaluate his clients' cases properly to obtain the best recovery possible.
+- **Trey Carnes** represented Georgia hospitals and health systems on third-party reimbursement earlier in his career. He knows how medical bills, liens and subrogation affect what an injured person takes home.
 
 For injuries on or after April 21, 2025, Georgia's tort reform law (Senate Bill 68) lets the defense show the jury what medical bills were actually paid, not just billed.
 
@@ -96,7 +96,6 @@ Georgia passed a major tort reform law, Senate Bill 68, signed on April 21, 2025
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

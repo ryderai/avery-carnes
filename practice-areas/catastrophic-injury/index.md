@@ -32,7 +32,7 @@ The bills you have today are only part of it. A full claim looks at future surge
 ## How we work
 
 - An attorney handles your case, never only a paralegal or case manager.
-- If you can't come to us, we come to you.
+- We come to you.
 - We prepare the case as if a jury will hear it.
 
 ## Questions
@@ -43,7 +43,7 @@ An attorney. At Avery Carnes, your case is handled by a lawyer, never only by a 
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.
 
 ### What is my case worth?
 
@@ -56,7 +56,6 @@ Georgia passed a major tort reform law, Senate Bill 68, signed on April 21, 2025
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

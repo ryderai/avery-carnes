@@ -56,7 +56,6 @@ Your first consultation is free. We take injury cases on a contingency fee, whic
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

@@ -10,7 +10,6 @@ updated: "2026-11-12"
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 
@@ -26,4 +25,4 @@ No. The call and the case review are free, and there is no obligation to hire us
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.

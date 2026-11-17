@@ -27,7 +27,7 @@ Crashes at the GA-400 and I-285 interchange, on Roswell Road, Abernathy Road and
 
 ## Hurt nearby? Come by, or we'll come to you
 
-Northside Hospital Atlanta and Emory Saint Joseph's Hospital are both in Sandy Springs, minutes from our office. If you can't come to us, we come to you.
+Northside Hospital Atlanta and Emory Saint Joseph's Hospital are both in Sandy Springs, minutes from our office. We come to you.
 
 ## Deadlines to watch
 
@@ -41,7 +41,7 @@ We're in The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328, at Perime
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.
 
 ### How long do I have to file an injury claim in Georgia?
 
@@ -54,7 +54,6 @@ Your first consultation is free. We take injury cases on a contingency fee, whic
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

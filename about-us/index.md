@@ -15,7 +15,7 @@ Trey graduated from Shorter College and earned his law degree from Mississippi C
 
 He began his legal career at a boutique firm in Cartersville, Georgia, representing riders hurt in motorcycle crashes.
 
-Before opening his own practice, Trey represented Georgia hospitals and healthcare systems in third-party reimbursement. That work taught him how medical bills, provider liens and subrogation claims (an insurer's right to be paid back out of your recovery) shape what an injured person actually takes home.
+Earlier in his career, Trey represented Georgia hospitals and healthcare systems in third-party reimbursement. That work taught him how medical bills, provider liens and subrogation claims (an insurer's right to be paid back out of your recovery) shape what an injured person actually takes home.
 
 He has represented injured people in Georgia, Alabama and Mississippi.
 
@@ -33,7 +33,7 @@ Ben has built his career in personal injury cases. He began at a firm in Athens,
 
 Today he represents only individuals and families who have been hurt by others.
 
-Ben is an amateur golfer who competes in state and national amateur tournaments. He and his wife, Hannah, have three children: Amy, Will and Caroline.
+Ben is an amateur golfer who competes in state and national amateur tournaments. He also enjoys spending time with his wife and four children.
 
 - Education: University of Georgia, John Marshall Law School
 - Memberships: State Bar of Georgia, American Bar Association, American Association for Justice, Georgia Trial Lawyers Association
@@ -47,12 +47,11 @@ An attorney. At Avery Carnes, your case is handled by a lawyer, never only by a 
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.
 
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 

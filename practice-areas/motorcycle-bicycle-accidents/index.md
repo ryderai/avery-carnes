@@ -44,7 +44,7 @@ For most injury claims, Georgia gives you **two years from the date of the injur
 
 ### Can you come to me?
 
-Yes. If you can't come to our office at Perimeter Center, we come to you. Tell us where you are when you call.
+Yes. We come to you. Tell us where you are when you call.
 
 ### What is my case worth?
 
@@ -53,7 +53,6 @@ No honest lawyer can give you a number on the first call. What a case is worth d
 ## Contact
 
 - Phone: 404-602-0028
-- Email: Trey@GeorgiaInjuryLawFirm.com
 - Office: The King Building, 6 Concourse Pkwy #1650, Atlanta, GA 30328
 - Free case review: https://avery-carnes.vercel.app/contact-us/
 
