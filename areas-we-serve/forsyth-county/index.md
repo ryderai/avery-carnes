@@ -47,7 +47,7 @@ Yes. We're based in Atlanta, but we take cases from every part of Georgia, from 
 
 ### What if I was partly at fault?
 
-Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can still recover if you were less than 50% at fault, but your award is reduced by your share of the fault. At 50% or more, you recover nothing. Insurers know this, which is why they often try to shift blame onto the injured person.
+Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can still recover if you were less than 50% at fault, but your award is reduced by your share of the fault. At 50% or more, you recover nothing. Insurance companies know this, which is why they often try to shift blame onto the injured person.
 
 ### How much does it cost to hire Avery Carnes?
 

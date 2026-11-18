@@ -7,7 +7,7 @@ updated: "2026-11-12"
 
 # Avery Carnes Trial Lawyers — Atlanta personal injury lawyers
 
-**Insurers have lawyers. So do you.** The lawyers at Avery Carnes have handled thousands of personal injury cases. With their knowledge and experience, Avery Carnes is able to obtain maximum results for cases ranging from car accidents to wrongful death claims.
+**Insurance companies have lawyers. So do you.** The lawyers at Avery Carnes have handled thousands of personal injury cases. With their knowledge and experience, Avery Carnes is able to obtain maximum results for cases ranging from car accidents to wrongful death claims.
 
 **Based in Atlanta, serving all of Georgia** (all 159 counties).
 
@@ -20,7 +20,7 @@ No attorney's fee unless we recover money for you. Whether you owe case costs (s
 ## Experience on your side
 
 - **Ben Avery:** Ben has spent his entire career litigating personal injury cases. Prior to representing injured people and their families, he defended these same personal injury cases for some of the nation's largest insurance companies. Having this experience, Ben is able to evaluate his clients' cases properly to obtain the best recovery possible.
-- **Trey Carnes** represented Georgia hospitals and health systems on third-party reimbursement earlier in his career. He knows how medical bills, liens and subrogation affect what an injured person takes home.
+- **Trey Carnes:** Earlier in his career, Trey represented many of Georgia's hospitals and health systems in the area of third-party reimbursement, in addition to running one of the largest funding companies in the country. Liens and medical reimbursement can eat into your settlement. He knows how to deal with them so you put more money in your pocket.
 
 For injuries on or after April 21, 2025, Georgia's tort reform law (Senate Bill 68) lets the defense show the jury what medical bills were actually paid, not just billed.
 
@@ -79,7 +79,7 @@ For most injury claims, Georgia gives you **two years from the date of the injur
 
 ### What if I was partly at fault?
 
-Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can still recover if you were less than 50% at fault, but your award is reduced by your share of the fault. At 50% or more, you recover nothing. Insurers know this, which is why they often try to shift blame onto the injured person.
+Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can still recover if you were less than 50% at fault, but your award is reduced by your share of the fault. At 50% or more, you recover nothing. Insurance companies know this, which is why they often try to shift blame onto the injured person.
 
 ### Who will actually handle my case?
 

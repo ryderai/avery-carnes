@@ -17,9 +17,9 @@ A crash takes seconds. The insurance claim can take months, and the other driver
 
 ## What to do after a car accident in Georgia
 
-1. **Get medical care.** Some injuries, like concussions and back injuries, show up hours or days later. A record that starts on day one matters.
-2. **Call the police.** Georgia law requires reporting a crash that causes injury, death, or at least $500 in property damage (O.C.G.A. § 40-6-273). Ask for the report number.
-3. **Take photos and names.** Vehicles, the road, traffic lights, your injuries, and the names and phone numbers of witnesses.
+1. **Call the police.** Georgia law requires reporting a crash that causes injury, death, or at least $500 in property damage (O.C.G.A. § 40-6-273). Ask for the report number.
+2. **Take photos and names.** Vehicles, the road, traffic lights, your injuries, and the names and phone numbers of witnesses.
+3. **Get medical care.** Some injuries, like concussions and back injuries, show up hours or days later. A record that starts on day one matters.
 4. **Don't give a recorded statement** to the other driver's insurer before you talk to a lawyer.
 5. **Call us.** Video from businesses and traffic cameras can be recorded over. The sooner we know, the sooner we can ask for it.
 
@@ -49,7 +49,7 @@ You do not have to give a recorded statement to the other driver's insurer, and 
 
 ### What if I was partly at fault?
 
-Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can still recover if you were less than 50% at fault, but your award is reduced by your share of the fault. At 50% or more, you recover nothing. Insurers know this, which is why they often try to shift blame onto the injured person.
+Georgia uses a modified comparative fault rule (O.C.G.A. § 51-12-33). You can still recover if you were less than 50% at fault, but your award is reduced by your share of the fault. At 50% or more, you recover nothing. Insurance companies know this, which is why they often try to shift blame onto the injured person.
 
 ### How long do I have to file an injury claim in Georgia?
 
